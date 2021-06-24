@@ -1,4 +1,4 @@
-# For of the Swiper.js Repo for A8C Specific Builds
+# Fork of the Swiper.js Repo for A8C Specific Builds
 
 The purpose of this fork is to provide a location to house Automattic specific build scripts for the Swiper.js library.
 
