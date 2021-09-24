@@ -123,7 +123,7 @@ export default {
     keyboard: {
       enabled: false,
       onlyInViewport: true,
-      pageUpDown: true,
+      pageUpDown: false,
     },
   },
   create() {
